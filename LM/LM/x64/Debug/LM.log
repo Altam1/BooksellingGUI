@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\C++builder\BooksellingGUI\LM\LM\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  MyForm2.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LM.vcxproj -> D:\C++builder\BooksellingGUI\LM\x64\Debug\LM.exe
